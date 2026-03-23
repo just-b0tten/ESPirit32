@@ -4,7 +4,7 @@
 
 *Heavy on features, light on resources.*
 
-*Stable. Secure. **Yours**.*
+*Fast. Stable. **Yours**.*
 
 ## Overview
 - This Ecosystem is designed as an open-source platform for custom devices and applications.
@@ -29,10 +29,6 @@ See [LICENSE](LICENSE) for the full text.
 Applications and games using the BIOS through its public API
 are not considered derivative works and may be licensed independently.
 
-## Guide for Enthusiasts (YOU)
-Enthusiasts who want to create their own devices or games can follow
-[docs/designers.md](docs/designers.md) for component references, example devices,
-and best practices; [docs/programmers.md](docs/programmers.md) for refernces and guides on making games and applications.
 
 ## Disclaimer
 The authors provide this BIOS and examples "as-is".
